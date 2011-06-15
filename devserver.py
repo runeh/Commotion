@@ -1,0 +1,2 @@
+import commotion
+commotion.main()
